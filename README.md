@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ting</h1>
+<h1 align="center">Hi 👋, I'm Ting</h1>
 <h3 align="center">Rookie frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hting26&label=Profile%20views&color=abd1e8&style=flat" alt="hting26" /> </p>
